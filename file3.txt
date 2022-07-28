@@ -1,5 +1,5 @@
-file3 a
-file3 b
-file3 c
-file3 dd
-file3 e
+file3 a 0
+file3 b 1
+file3 c 2
+file3 dd 3
+file3 e 4
